@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192120658359",
+    "project_id": "dailydairy-2e5ab",
+    "storage_bucket": "dailydairy-2e5ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192120658359:android:bacd5c094481ad8b55f032",
+        "android_client_info": {
+          "package_name": "com.example.dailydairy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192120658359-4rv2tp0ch4ek2jap2h18sf2kau8gsjra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLQZj91tmNk9reNsuTzL8dpF00yCu9mkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192120658359-4rv2tp0ch4ek2jap2h18sf2kau8gsjra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
